@@ -1,0 +1,145 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+font-family: 'merriweather',serif;
+background-color: #E4F9F5;
+
+    
+}
+h3 {
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+    color: #11999E;
+}
+
+.picture {
+    height: 100px;
+    width: 100px;
+}
+.top {
+    
+    position: relative;
+    padding-top: 100px;
+}
+h1{
+    font-size: 5.625rem;
+    margin: 30px auto 0px auto;
+    
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+
+}
+p {
+    font-family:  cursive;
+    line-height: 2;
+}
+h2 {
+    font-family: 'georgia',serif;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    padding-bottom:20px ;
+    
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    top: 230px;
+}
+.top-cloud{
+    position: absolute;
+    right:390px;
+    top:70px;
+}
+.picture {
+    position: absolute;
+    left: 300px;
+    top: 10px;}
+
+    .profile-pic {
+height: 100px;
+width: 100px;
+    }
+    .read {
+        height: 100px;
+        width: 100px;
+        float: left;
+    margin-right: 30px;
+    }
+    .badminton {
+        height: 100px;
+        width: 100px;
+        float: right;
+        margin-left: 30px;
+    }
+    a {
+        color: #11999E;
+margin: 10px 20px;
+text-decoration: none;
+    }
+    a:hover {
+        color: #EAF6F6;
+    }
+    .town {
+        font-weight: normal;
+    }
+    .skill-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+     
+    }
+    .myButton {
+        box-shadow:inset 0px 1px 0px 0px #dcecfb;
+        background:linear-gradient(to bottom, #66BFBF 5%, #66BFBF 100%);
+        background-color:#66BFBF;
+        border-radius:6px;
+        border:1px solid #66BFBF;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:15px;
+        font-weight:bold;
+        padding:6px 24px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #528ecc;
+    }
+    .myButton:hover {
+        background:linear-gradient(to bottom, #66BFbf 5%, #66Bfbf 100%);
+        background-color:#66BFBF;
+    }
+    .myButton:active {
+        position:relative;
+        top:1px;
+    }
+.bottom {
+    margin-top: 80px;
+    background-color: #66BFBF;
+ padding:30px;
+}
+.copyright {
+    color: #EAF6F6;
+    font: 0.75rem;
+    padding: 20px 0px;
+}
+hr {
+    border-style: none;
+    border-top-style:dotted ;
+   color: #66BFBF;
+        border-width: 7px;
+        width: 5%;
+        margin: 100px auto;
+        
+
+}
+.my-desc {
+    width: 30%;
+    margin: auto;
+}
+.middle {
+    margin: 100px 0px;
+}
+
